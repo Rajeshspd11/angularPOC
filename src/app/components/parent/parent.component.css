@@ -1,0 +1,8 @@
+.border{
+    border: 1px solid black;
+}
+
+.render{
+    height: 80vh;
+    text-align: center;
+}

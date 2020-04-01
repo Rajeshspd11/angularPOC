@@ -1,0 +1,5 @@
+
+
+  <div  id="list-2" [cdkDropListData]="list" cdkDropList  cdkDropListConnectedTo="list-1" (cdkDropListDropped)="drop($event)">
+    <div *ngFor="let item of list" cdkDrag style="border:1px solid black; padding:5px;">{{item}}</div>
+  </div>

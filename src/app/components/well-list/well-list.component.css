@@ -1,0 +1,19 @@
+.cat1{
+    background-color: cornflowerblue;
+}
+
+.cat2{
+    background-color: cornsilk;
+}
+
+.cat3{
+    background-color: gainsboro;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+th{
+    border: 1px solid black;
+}

@@ -1,0 +1,14 @@
+.table, tr, th, td{
+    border: 1px solid black;
+}
+
+.header{
+    background-color: darkturquoise;
+}
+td,th{
+    padding: 1%;
+}
+
+
+
+

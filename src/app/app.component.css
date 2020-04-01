@@ -1,0 +1,19 @@
+.flexDisplay{
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px solid white;
+}
+
+.menuItem{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+a{
+    color: white !important ;
+}
+
+.toolbar{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
